@@ -1,0 +1,9 @@
+# Font ocr data
+*.ocr
+
+# Images
+characters/*.png
+fonts/*.*
+
+# Apple, pls
+.DS_Store
